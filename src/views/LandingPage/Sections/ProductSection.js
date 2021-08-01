@@ -21,9 +21,9 @@ export default function ProductSection() {
     <div className={classes.section}>
       <GridContainer justify="center">
         <GridItem xs={12} sm={12} md={8}>
-          <h2 className={classes.title}>¿Por qué utilizar Wevent?</h2>
+          <h2 className={classes.title}>¿Por qué utilizar Amet?</h2>
           <h5 className={classes.description}>
-            Wevent es un portal hecho específicamente para la creación de eventos.
+            Amet es un portal hecho específicamente para la creación de eventos.
             Puedes organizar eventos pequeños como una reunión de amigos, o ex-compañeros de escuela,
             hasta eventos grandes como bodas, XV años, etc.
           </h5>
@@ -43,7 +43,7 @@ export default function ProductSection() {
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
               title="Proveedores verificados"
-              description="Wevent realiza un proceso de verificación para asegurarnos que los proveedores son reales y dan un servicio de calidad."
+              description="Amet realiza un proceso de verificación para asegurarnos que los proveedores son reales y dan un servicio de calidad."
               icon={VerifiedUser}
               iconColor="success"
               vertical

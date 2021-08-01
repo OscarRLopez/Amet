@@ -31,7 +31,7 @@ export default function TeamSection() {
   );
   return (
     <div className={classes.section}>
-      <h2 className={classes.title}>Conoce al equipo de Wevent</h2>
+      <h2 className={classes.title}>Conoce al equipo de Amet</h2>
       <div>
         <GridContainer>
           <GridItem xs={12} sm={12} md={4}>

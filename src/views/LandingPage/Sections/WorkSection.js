@@ -22,7 +22,7 @@ export default function WorkSection() {
         <GridItem cs={12} sm={12} md={8}>
           <h2 className={classes.title}>Contáctanos</h2>
           <h4 className={classes.description}>
-            Si tienes dudas sobre Wevent, o quieres darnos feedback sobre
+            Si tienes dudas sobre Amet, o quieres darnos feedback sobre
             nuestra página, proveedores, etc. Envíanos un mensaje.
           </h4>
           <form>
